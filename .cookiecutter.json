@@ -1,0 +1,10 @@
+{
+  "_template": "gh:oncleben31/cookiecutter-hypermodern-python",
+  "author": "Oncleben31",
+  "email": "oncleben31@gmail.com",
+  "friendly_name": "Cookiecutter Hypermodern Python Instance",
+  "github_user": "oncleben31",
+  "package_name": "cookiecutter_hypermodern_python_instance",
+  "project_name": "cookiecutter-hypermodern-python-instance",
+  "version": "0.0.0"
+}
